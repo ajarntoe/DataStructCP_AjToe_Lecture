@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1566186535 source:e:\dropbox\teaching\datastructures\2023-2024-normal\oldlecture\01-intro\vectorexample01\main.cpp
+	<iostream>
+	<vector>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692101365 source:e:\dropbox\teaching\datastructures\2023-2024-normal\oldlecture\02-pair-vector-wordcount\basicfind\basicfind\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

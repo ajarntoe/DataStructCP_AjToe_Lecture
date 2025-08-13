@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1568563546 source:e:\dropbox\teaching\datastructures\2016-2017-normal\10-cpvector\tset\main.cpp
+	<assert.h>
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<iomanip>
+	"vector2.h"
+
+1506475210 e:\dropbox\teaching\datastructures\2016-2017-normal\10-cpvector\tset\vector2.h
+	<stdexcept>
+	<iostream>
+

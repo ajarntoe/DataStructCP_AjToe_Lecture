@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1504623786 source:d:\dropbox\teaching\datastructures\2016-2017-normal\07-priorityq-ksmallestproblem\ksmallest\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+
+1504623785 source:c:\users\rith_\dropbox\teaching\datastructures\2016-2017-normal\07-priorityq-ksmallestproblem\ksmallest\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1485086353 source:d:\dropbox\teaching\datastructures\2016-2017-normal\04-map-mapiterator-stdsort-stdfind-mapfind\maptest\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<vector>
+	<algorithm>
+	<string>
+
+1485086354 source:c:\users\rith_\dropbox\teaching\datastructures\2016-2017-normal\04-map-mapiterator-stdsort-stdfind-mapfind\maptest\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<vector>
+	<algorithm>
+	<string>
+

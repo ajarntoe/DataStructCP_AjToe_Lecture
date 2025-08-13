@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1755055065 source:c:\users\ajarntoe2\dropbox\teaching\datastructures\2023-2024-normal\oldlecture\02-pair-vector-wordcount\basicvectorini\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

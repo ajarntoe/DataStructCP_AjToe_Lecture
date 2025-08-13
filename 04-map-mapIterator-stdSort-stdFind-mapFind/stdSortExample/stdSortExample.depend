@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1485102368 source:e:\dropbox\teaching\datastructures\2016-2017-normal\04-map-mapiterator-stdsort-stdfind-mapfind\stdsortexample\main.cpp
+	<algorithm>
+	<functional>
+	<array>
+	<iostream>
+	<string>
+	<vector>
+
+1485102367 source:e:\dropbox\teaching\datastructures\2023-2024-normal\oldlecture\04-map-mapiterator-stdsort-stdfind-mapfind\stdsortexample\main.cpp
+	<algorithm>
+	<functional>
+	<array>
+	<iostream>
+	<string>
+	<vector>
+

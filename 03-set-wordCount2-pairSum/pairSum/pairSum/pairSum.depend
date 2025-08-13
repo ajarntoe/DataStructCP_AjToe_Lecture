@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1485082977 source:e:\dropbox\teaching\datastructures\2023-2024-normal\oldlecture\03-set-wordcount2-pairsum\pairsum\pairsum\main.cpp
+	<stdio.h>
+	<iostream>
+	<algorithm>
+	<vector>
+

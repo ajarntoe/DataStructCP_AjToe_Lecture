@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1755056982 source:c:\users\ajarntoe2\dropbox\teaching\datastructures\2023-2024-normal\oldlecture\02-pair-vector-wordcount\vectoriteratorloop\vectoriteratorloop\main.cpp
+	<iostream>
+	<vector>
+

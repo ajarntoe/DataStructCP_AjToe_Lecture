@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1483886817 source:d:\dropbox\teaching\datastructures\2016-2017-normal\02-pair-vector-wordcount\vectorandpair\main.cpp
+	<iostream>
+	<utility>
+	<vector>
+
+1483886817 source:e:\dropbox\teaching\datastructures\2016-2017-normal\02-pair-vector-wordcount\vectorandpair\main.cpp
+	<iostream>
+	<utility>
+	<vector>
+

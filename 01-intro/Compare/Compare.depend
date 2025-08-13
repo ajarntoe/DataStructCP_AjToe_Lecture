@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1483460662 source:d:\dropbox\teaching\datastructures\2016-2017-normal\01-intro\compare\main.cpp
+	<iostream>
+	<fstream>
+
+1503890788 source:e:\dropbox\teaching\datastructures\2016-2017-normal\01-intro\compare\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+

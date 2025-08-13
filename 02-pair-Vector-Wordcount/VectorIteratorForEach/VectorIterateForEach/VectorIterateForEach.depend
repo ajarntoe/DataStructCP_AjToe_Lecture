@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1692103371 source:e:\dropbox\teaching\datastructures\2023-2024-normal\oldlecture\02-pair-vector-wordcount\vectoriteratorforeach\vectoriterateforeach\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+
+1692156805 source:c:\users\ajarntoe2\dropbox\teaching\datastructures\2023-2024-normal\oldlecture\02-pair-vector-wordcount\vectoriteratorforeach\vectoriterateforeach\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+

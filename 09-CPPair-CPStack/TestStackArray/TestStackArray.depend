@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1568085717 source:c:\users\rith_\dropbox\teaching\datastructures\2016-2017-normal\09-cppair-cpstack\teststackarray\main.cpp
+	<iostream>
+	"stack.h"
+	<assert.h>
+	<exception>
+
+1568085935 c:\users\rith_\dropbox\teaching\datastructures\2016-2017-normal\09-cppair-cpstack\teststackarray\stack.h
+	<stdexcept>
+	<iostream>
+

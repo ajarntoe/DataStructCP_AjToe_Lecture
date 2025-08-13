@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1568085479 source:c:\users\rith_\dropbox\teaching\datastructures\2016-2017-normal\09-cppair-cpstack\teststackvector\main.cpp
+	<iostream>
+	"stack_vector.h"
+	<assert.h>
+	<exception>
+
+1568174089 c:\users\rith_\dropbox\teaching\datastructures\2016-2017-normal\09-cppair-cpstack\teststackvector\stack_vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+

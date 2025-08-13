@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1384885144 source:f:\datastructure2013\deque\dequetest\main.cpp
+	<iostream>
+	<deque>
+	<algorithm>
+
+1422208148 source:d:\dropbox\teaching\datastructures\2016-2017-normal\05-deque-radix\deque\dequetest\main.cpp
+	<iostream>
+	<deque>
+	<algorithm>
+
+1422208147 source:e:\dropbox\teaching\datastructures\2016-2017-normal\05-deque-radix\deque\dequetest\main.cpp
+	<iostream>
+	<deque>
+	<algorithm>
+

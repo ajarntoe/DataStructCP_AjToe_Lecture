@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1486306346 source:d:\dropbox\teaching\datastructures\2016-2017-normal\08-customsort-operatoroverloading\sortinglessthan\main.cpp
+	<algorithm>
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+
+1486306345 source:e:\dropbox\teaching\datastructures\2016-2017-normal\08-customsort-operatoroverloading\sortinglessthan\main.cpp
+	<algorithm>
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+

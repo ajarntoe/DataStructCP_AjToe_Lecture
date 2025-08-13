@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565673589 source:c:\users\rith_\dropbox\teaching\datastructures\2016-2017-normal\01-intro\fileio\main.cpp
+	<fstream>
+	<iostream>
+	<stdlib.h>
+

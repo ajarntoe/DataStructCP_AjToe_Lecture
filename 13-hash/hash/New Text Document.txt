@@ -1,0 +1,13 @@
+ผมอ่านมาสรุปได้ดังนี้
+http://stackoverflow.com/questions/17016175/c-unordered-map-
+using-a-custom-class-type-as-the-key
+
+ถ้าจะใช้อ็อบเจกต์ของ class เราเองเป็น key ให้กับ unordered_set หรือ
+unordered_map
+ต้องเขียน
+1. operator== ใน class เพื่อการเปรียบเทียบความเท่ากัน
+2. เขียนคลาสใหม่มี operator() ทำหน้าที่เป็น hasher เพื่อส่งให้ constructor
+ดังตัวอย่างที่แนบมาให้
+มีอะไรที่ผมเข้าใจผิดไหม ?
+(ผมเลือกใช้ class แทน struct เพราะจะได้นำเสนอให้นักเรียนรูปแบบเดียวคือ class)
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1383073880 source:c:\teaching\datastructures\2013\vectortest\main.cpp
+	<iostream>
+	<vector>
+
+1483875952 source:d:\dropbox\teaching\datastructures\2016-2017-normal\02-pair-vector-wordcount\vectorexercise01-(nonempty)\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
+1483875952 source:e:\dropbox\teaching\datastructures\2016-2017-normal\02-pair-vector-wordcount\vectorexercise01-(nonempty)\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
+1483875952 source:e:\dropbox\teaching\datastructures\2023-2024-normal\oldlecture\02-pair-vector-wordcount\vectorexercise01-(nonempty)\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
+1483875952 source:c:\users\ajarntoe2\dropbox\teaching\datastructures\2023-2024-normal\oldlecture\02-pair-vector-wordcount\vectorexercise01-(nonempty)\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

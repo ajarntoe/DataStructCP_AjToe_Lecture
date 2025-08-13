@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485701564 source:d:\dropbox\teaching\datastructures\2016-2017-normal\06-stack-parenthesischeck\getkthdata\main.cpp
+	<iostream>
+	<stack>
+	<stdexcept>
+

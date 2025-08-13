@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692154850 source:c:\users\ajarntoe2\dropbox\teaching\datastructures\2023-2024-normal\oldlecture\02-pair-vector-wordcount\basicvectormodify\basicvectormodify\main.cpp
+	<iostream>
+	<vector>
+
