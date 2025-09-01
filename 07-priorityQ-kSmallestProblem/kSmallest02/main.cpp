@@ -30,6 +30,7 @@ int main ()
     int k;
     cin >> k;
     showpq(myq,k);
+    showpq(myq,k);
 
 }
 
